@@ -1,0 +1,50 @@
+body{
+    background-color:black; 
+  }
+
+.navbar{
+    color: white;
+    
+}
+.navbar h1{
+    font-size: 50px;
+    font-weight: 500;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left: 150px;
+    margin-top: 30px;
+    transform: scale(2, 1);
+    
+}
+
+.nav-link{
+    color: white;
+   
+}
+
+
+
+
+.menu_list  {
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    margin-top: 200px;    
+    color:yellow;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+  
+    
+  }
+
+  
+  .dropdown-item{
+    padding-top: 20px;
+    font-size: 20px;
+    
+  }
+  footer {
+    margin-top: 20px;
+    color: white;
+    padding-left: 150px;
+}
